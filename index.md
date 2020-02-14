@@ -14,10 +14,6 @@ locations:
   - venue: "CSIRO"
     address: "Namadji Room Building 279, Clunies Ross St, CSIRO, Black Mountain ACT 2601"
 
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "-35.272754,149.116044"
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
