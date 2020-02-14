@@ -13,7 +13,7 @@ etherpad: https://pad.carpentries.org/2020-03-03-ttt-csiro           # optional:
 locations:
   - venue: "CSIRO"
     address: "Namadji Room Building 279, Clunies Ross St, CSIRO, Black Mountain ACT 2601"
-
+    latlng: "-35.272754, 149.116044"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
