@@ -41,7 +41,7 @@ swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
-training_site: "https://github.com/csiro-data-school/2020-03-03_training"
+training_site: "https://csiro-data-school.github.io/2020-03-03_training/"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
 
