@@ -12,7 +12,7 @@ contact: ["kerensa.mcelroy@csiro", "Benjamin.Schwessinger@anu.edu.au"]    # boxe
 etherpad: https://pad.carpentries.org/2020-03-03-ttt-csiro           # optional: URL for the workshop Etherpad if there is one
 locations:
   - venue: "CSIRO"
-    address: "Namadji Room Building 279, Clunies Ross St, CSIRO, Black Mountain ACT 2601"
+    address: "Namadji Room Building 002 / 079, Clunies Ross St, CSIRO, Black Mountain ACT 2601"
     latlng: "-35.272754, 149.116044"
 ---
 
